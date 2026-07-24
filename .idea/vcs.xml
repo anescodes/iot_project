@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../arch/cpu/arm/CMSIS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../arch/cpu/cc26x0-cc13x0/lib/cc13xxware" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../arch/cpu/cc26x0-cc13x0/lib/cc2640r2-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../arch/cpu/cc26x0-cc13x0/lib/cc26xxware" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../arch/cpu/gecko/lib/gecko_sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../arch/cpu/nrf/lib/nrfx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../arch/cpu/nrf/lib/tinyusb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../arch/cpu/nrf52840/lib/nrf52-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../arch/cpu/simplelink-cc13xx-cc26xx/lib/coresdk_cc13xx_cc26xx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../os/net/security/mbedtls" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../os/net/security/mbedtls/framework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../os/net/security/micro-ecc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../tests/18-coap-lwm2m/example-lwm2m-standalone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../tools/cc2538-bsl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../tools/cooja" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../tools/motelist" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../tools/sensniff" vcs="Git" />
+  </component>
+</project>
